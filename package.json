@@ -1,0 +1,20 @@
+{
+  "name": "firefunctions",
+  "version": "0.0.1",
+  "description": "FireFunctions CLI for easily manage, develop and maintain an Firebase Cloud Functions ambitious project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/neilor/firefunctions.git",
+  "keywords": [
+    "firebase",
+    "firebase-functions",
+    "cloud-functions",
+    "cloud",
+    "functions",
+    "firebase-cloud-functions"
+  ],
+  "author": "Neilor Caldeira <neilorcaldeira@gmail.com>",
+  "license": "MIT"
+}
